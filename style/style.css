@@ -1,0 +1,94 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #757575;
+}
+
+h2 {
+    font-size: 34px;
+    color: #043d47;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 24px;
+}
+h5 {
+    font-size: 18px;
+}
+
+img {
+    width: 85%;
+    height: auto;
+    border: 4px solid #043d47;
+}
+.div--main i {
+    font-size: 32px;
+    color: #043d47;
+}
+a {
+    text-decoration: none;
+}
+.div--main a:hover {
+    color: #ffffff;
+    transition: 0.8s;
+}
+.div--main span {
+    color: #043d47;
+    font-size: 18px;
+}
+.div--main span:hover {
+    background-color: #043d47;
+    color: #ffffff;
+    transition: 1s;
+    border-radius: 5px;
+}
+
+.background {
+    background-color: #f1f1f1;
+}
+.div--photo {
+    width: 100%;
+}
+.div--profile,.div--details-education, .div--details-skills {
+    background-color: #ffffff;
+}
+.div--socialMedia {
+    background-color: #043d47;     
+}
+
+.div--socialMedia i {
+    color: #ffffff;
+    font-size: 22px;
+}
+.div--socialMedia i:hover {
+    color: #043d47;
+    transition: 0.8s;
+}
+.div--socialMedia span {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
+.div--socialMedia span:hover {
+    background-color: #ffffff;
+    color: #043d47;
+    transition: 1s;
+    border-radius: 5px;
+}
+
+.div--details-skills>p {
+    color: #000000;
+}
+
+.color-green {
+    color: #043d47;
+}
+.bg-green {
+    background-color: #065361;
+}
+.icon-margin {
+    margin-left: -8px;
+    margin-right: 14px;
+}
